@@ -1,0 +1,42 @@
+body{
+
+}
+.display-change{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+.h1tag-sizing{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: green;
+}
+.span-color{
+    color: red;
+}
+.first-div-sizing{
+    padding-right: 80px;
+    text-align: initial;
+    font-size: 20px;
+}
+.button-sizing-one{
+    width: 20%;
+    padding: 15px 40px;
+    border: none;
+    border-radius: 7px;
+    text-align: center;
+    background-image: linear-gradient(35deg, green, red, green);
+}
+.ancor-tag{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.ancor-tag:hover{
+    background-color: goldenrod;
+    color: green;
+}
+.bd-image-sizing{
+    height: 300px;
+}
