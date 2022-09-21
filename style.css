@@ -1,9 +1,10 @@
 body{
-
+margin: 0;
+padding: 0;
 }
 .display-change{
     display: flex;
-    width: 80%;
+    width: 85%;
     margin: 0 auto;
 }
 .h1tag-sizing{
@@ -40,3 +41,45 @@ body{
 .bd-image-sizing{
     height: 300px;
 }
+.dist-title-change{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: green;
+}
+.span-clr-tow{
+    color: red;
+}
+.second-div-sizing{
+    display: flex;
+    width: 85%;
+    margin: 0 auto;
+}
+.dist-img-sizing{
+    width: 100%;
+}
+.box-sizing{
+    width: 250px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+}
+.right-box-posi{
+    padding-left: 10px;
+    padding-right: 50px;
+}
+.first-padding-one{
+    padding-top: 100px;
+}
+.padding-top-one{
+    padding-top: 100px;
+}
+.padding-top-two{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
